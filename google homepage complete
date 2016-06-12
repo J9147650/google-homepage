@@ -1,0 +1,129 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<link type="text/css" rel="stylesheet" href="google homepage.css"/>
+<title> The Odin Project - Google Homepage </title>
+</head>
+<body>
+  <div class="top_right">
+<ul>
+  <li> <a href="https://github.com/J9147650/google-homepage.git"> <img class="picture" src="https://raw.githubusercontent.com/jgarza/odin-project-studies/master/html_css/google_project1/img/photo.jpg"> <img> </a> </li>
+   <li> <a href="https://github.com/J9147650/google-homepage.git"> <img class="bell" src="https://raw.githubusercontent.com/jgarza/odin-project-studies/master/html_css/google_project1/img/bell.png"> </a> </li>
+  <li class="app-dots"> <a href="https://www.google.co.uk/intl/en/options/"> <img src="https://raw.githubusercontent.com/jgarza/odin-project-studies/master/html_css/google_project1/img/grid.png" <img></a> </li>
+  <li> <a href="https://www.google.co.uk/imghp?hl=en&tab=wi&ei=eRFbV77JE-PI6ASjt53wBA&ved=0EKouCBYoAQ"> Images </a></li>
+   <li> <a href="https://mail.google.com/mail/?tab=wm"> Gmail </a> </li>
+    </ul>
+    <br>
+  </div>
+  <br>
+  <br>
+  <br>
+<img src="https://raw.githubusercontent.com/Hacima/google-homepage-clone/master/Images/logo.png"/>
+  <br>
+  <br>
+<form align="center">
+<input type="search name="googlesearch" size="70"" > <br>
+                                       <br>
+<input type="submit" value="Google Search">
+<input type="submit" value="I'm Feeling Lucky">
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+<div class="footer">
+  <footer>
+  <ul class="footer-nav">
+    <li><a href="https://www.google.co.uk/intl/en/about.html?fg=1"> Advertising </a> </li>
+    <li><a href="https://www.google.co.uk/services/?fg=1"> Business</a> </li>
+    <li><a href="https://www.google.co.uk/intl/en/ads/?fg=1"> About</a> </li>
+    </ul>
+  </div>
+  <div>
+    <ul class="footer-nav2">
+      <li> <a href="https://www.google.co.uk/intl/en/policies/privacy/?fg=1"> Privacy </a></li>
+      <li><a href="https://www.google.co.uk/intl/en/policies/terms/?fg=1"> Terms </a> </li>
+      <li><a href="https://www.google.co.uk/preferences?hl=en"> Settings </a></li>
+    </ul>
+    </footer>
+    <style>
+
+    #top_right {
+    float:right;
+    margin-left:10px;
+}
+
+
+img {
+    display: block;
+    margin: 0 auto;
+    top: -10px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+li {
+  float: right;
+  font-family:sans-serif;
+}
+a {
+  display:block;
+  padding: 8px;
+  font-size: 13px;
+  text-decoration: none;
+  color: black;
+  
+
+}
+ul.footer-nav {
+display: inline;
+  float:left;
+  list-style:none;
+  font-family:sans-serif;
+  font-size: 13px;
+  bottom: 0px;
+  position: fixed;
+  left: 0px;
+}
+
+ul.footer-nav2 {
+   display: inline;
+  float:right;
+  list-style:none;
+  font-family:sans-serif;
+  font-size: 20px; 
+  bottom: 0px;
+  position: fixed;
+  right: 0px;
+}
+
+.app-dots {
+  position: relative;
+  top: -8px;
+}
+img.picture {
+  position: relative;
+  border-radius: 100%;
+  margin: 0 auto;
+  right: -6px;
+  top: -10px;
+}
+
+img.bell {
+  position: relative;
+  top: -8px;
+  margin: 0 auto;
+}
+
+    </style>
+</body>
+
+
+</html>
+
